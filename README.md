@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,50:8E54E9,100:00C6FF&height=260&section=header&text=Jonasz%20Diwersy&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=CS%20and%20AI%20%C2%B7%20Builder%20%C2%B7%20Madrid&descSize=20&descAlignY=62&stroke=000000&strokeWidth=2" alt="Jonasz Diwersy banner" width="100%" />
+<img src="assets/banner.svg" alt="Jonasz Diwersy - CS and AI, Builder, Madrid" width="100%" />
 
 <a href="https://github.com/JonaszWD">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8E54E9&center=true&vCenter=true&width=640&lines=Shipping+AI+tools+that+people+actually+use;Built+an+LLM+tool+that+found+a+lead+story;18%2C000+supermarket+products%2C+one+cheapest+basket;BSc+Computer+Science+and+AI+%40+IE+University" alt="Typing animation" />
+  <img src="assets/typing.svg" alt="Shipping AI tools that people actually use" />
 </a>
 
 </div>
