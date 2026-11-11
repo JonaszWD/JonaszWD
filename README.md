@@ -8,12 +8,6 @@
 
 </div>
 
-## About
-
-Second-year Computer Science & AI student at **IE University** in Madrid. I turn ideas into working products: from an LLM podcast-summarisation pipeline at the Daily Mail that surfaced the paper's lead story on its first day of testing, to a live price-comparison app used to find the cheapest supermarket for a recipe.
-
-Looking for a software engineering or AI internship for **June to August 2027**.
-
 ## Projects
 
 <table>
