@@ -1,44 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jonasz&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%C2%B7%20Spain&descSize=18&descAlignY=60" alt="Jonasz banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,50:8E54E9,100:00C6FF&height=260&section=header&text=Jonasz%20Diwersy&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=CS%20%26%20AI%20%C2%B7%20Builder%20%C2%B7%20Madrid&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=1" alt="Jonasz Diwersy banner" width="100%" />
 
 <a href="https://github.com/JonaszWD">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Python+developer;Building+language+learning+apps;Experimenting+with+RAG+and+AI" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8E54E9&center=true&vCenter=true&width=640&lines=Shipping+AI+tools+that+people+actually+use;Built+an+LLM+tool+that+found+a+lead+story;18%2C000+supermarket+products%2C+one+cheapest+basket;BSc+Computer+Science+%26+AI+%40+IE+University" alt="Typing animation" />
 </a>
 
 </div>
+
+## About
+
+Second-year Computer Science & AI student at **IE University** in Madrid. I turn ideas into working products: from an LLM podcast-summarisation pipeline at the Daily Mail that surfaced the paper's lead story on its first day of testing, to a live price-comparison app used to find the cheapest supermarket for a recipe.
+
+Looking for a software engineering or AI internship for **June to August 2027**.
 
 ## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JonaszWD/simple-language-learning">simple-language-learning</a></h3>
-      A lightweight language learning app focused on a minimal interface and quick study sessions rather than a heavy feature set.
+      <h3>🛒 <a href="https://github.com/JonaszWD/gasto-super">Gasto Súper</a></h3>
+      Upload a recipe and get the cheapest supermarket for every ingredient. Covers <b>18,000 products</b> across Carrefour, Aldi, Lidl, Mercadona and Alcampo, with scrapers and Qwen3-Embedding sentence embeddings to match the same product across stores.
+      <br /><br /><a href="https://gasto-super.vercel.app">Live demo →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JonaszWD/language-web-app">language-web-app</a></h3>
-      Browser-based version of my language learning project, built to be used on any device without installation.
+      <h3>🗣️ <a href="https://github.com/JonaszWD/simple-language-learning">AI Spanish partner</a></h3>
+      Speaking-practice app with a self-hosted Mistral model, ElevenLabs text-to-speech and LiteLLM cost tracking, deployed on AWS (EC2, S3). Validated with 10+ test users. A phone-native lite version is still live.
+      <br /><br /><a href="https://jonaszwd.github.io/SimpleLanguageLearning/">Lite version →</a> · <a href="https://github.com/JonaszWD/language-web-app">Web app →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JonaszWD/personal-RAG">personal-RAG</a></h3>
+      <h3>⚡ Iberdrola Datathon</h3>
+      Smart Electric Mobility Challenge (March 2026). Team of 6 designing an optimised interurban EV charging network. I handled data collection and cleaning with Python, pandas and Spanish government APIs, plus congestion analysis.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/JonaszWD/personal-RAG">personal-RAG</a></h3>
       A retrieval-augmented generation setup that answers questions over my own notes and documents, so answers are grounded in my own material.
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JonaszWD/outfit-generator">outfit-generator</a></h3>
-      Builds outfit combinations from a personal wardrobe, removing the daily decision of what to wear.
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JonaszWD/gasto-super">gasto-super</a></h3>
-      Tracks grocery spending so I can see where the money goes and how it changes over time.
+      <h3>👕 <a href="https://github.com/JonaszWD/outfit-generator">outfit-generator</a></h3>
+      Builds outfit combinations from a personal wardrobe, removing the daily decision of what to wear.
     </td>
     <td width="50%" valign="top"></td>
   </tr>
 </table>
+
+## Experience
+
+**DMG Media (Daily Mail), Innovation Team**: Summer intern, June to July 2026, return offer received. Built a Whisper and ElevenLabs transcription pipeline with an LLM prompt chain that generates five headlines per podcast episode, added embeddings and a GPT-4o chatbot connected to the in-house RAG system, and made an interactive map narrowing ~120,000 UK businesses to ~50,000 barbershops for journalists.
 
 ## Tech
 
@@ -48,15 +60,15 @@
 
 <br />
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=flat)
-![Embeddings](https://img.shields.io/badge/Embeddings-6C63FF?style=flat)
-![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat)
-![Self-hosted LLMs](https://img.shields.io/badge/Self--hosted_LLMs_(Mistral)-FF7000?style=flat)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-6C63FF?style=flat)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-2E7D32?style=flat)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-8E54E9?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
+![Self-hosted LLMs](https://img.shields.io/badge/Self--hosted_LLMs_(Mistral)-FF7000?style=for-the-badge)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-8E54E9?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-2E7D32?style=for-the-badge)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 
 </div>
 
@@ -65,8 +77,8 @@
 <div align="center">
 
 <a href="https://github.com/JonaszWD"><img src="https://img.shields.io/badge/GitHub-JonaszWD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:jonasz20052511@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:jonasz@diwersy.eu"><img src="https://img.shields.io/badge/Email-jonasz%40diwersy.eu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E54E9,100:00C6FF&height=120&section=footer" alt="" width="100%" />
 
 </div>
