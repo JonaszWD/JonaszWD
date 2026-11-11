@@ -44,7 +44,19 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github&theme=dark" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,pandas,git,github,aws,azure,vercel&theme=dark" alt="Tech stack icons" />
+
+<br />
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=flat)
+![Embeddings](https://img.shields.io/badge/Embeddings-6C63FF?style=flat)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat)
+![Self-hosted LLMs](https://img.shields.io/badge/Self--hosted_LLMs_(Mistral)-FF7000?style=flat)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-6C63FF?style=flat)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-2E7D32?style=flat)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
 
 </div>
 
